@@ -143,6 +143,8 @@ IP-CIDR,45.87.172.0/24,no-resolve
 
 DOMAIN-SUFFIX,fastlydns.net
 
+# 69书吧
+DOMAIN-SUFFIX,69shuba.com
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
